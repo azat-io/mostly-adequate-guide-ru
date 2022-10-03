@@ -1,4 +1,4 @@
-[![cover](images/cover.png)](SUMMARY-ru.md)
+[![cover](images/cover.png)](SUMMARY.md)
 
 ## Об этой книге
 
